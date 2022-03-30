@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faiz Khan</h1>
+<h1 align="center">Hello , I'm Faiz Khan</h1>
 <h3 align="center">Web developer | ML learner | Engineering Student</h3>
 
 <h3 align="left">Connect with me:</h3>
