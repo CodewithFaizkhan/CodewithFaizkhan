@@ -1,7 +1,7 @@
 <h1 align="center">Hello , I'm Faiz Khan</h1>
 <h3 align="center">Web developer | ML learner | Engineering Student</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color : red;">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_itsmeryder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itsmeryder_" height="30" width="40" /></a>
 </p>
